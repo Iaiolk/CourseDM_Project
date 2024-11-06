@@ -1,5 +1,10 @@
-# CourseDM_Project
-# DDL 11-18?
+# CourseDM_Project（DDL 11-18?）
+# 当前进度
+## 数据预处理
+  1. 将所有数据进行了整合，按照(城市名称,年份,城市化率,就业率,...)的格式进行了合并，整合进了 data/dataA/merge_rawdata(no_ageStructure).csv 文件中
+  2. 
+
+# 前置知识
 ## 数据预处理
 1. **描述性数据特征**
   - 数值型数据：均值、中位数、四分位数、众数、离群值、方差
