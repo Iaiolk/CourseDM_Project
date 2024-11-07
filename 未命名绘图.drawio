@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zd7PMmVDuQ0RVFowQL_5-1" value="城镇化率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="30" y="180" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zd7PMmVDuQ0RVFowQL_5-2" value="工资水平" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="250" width="100" height="40" as="geometry" />
@@ -24,6 +24,21 @@
         </mxCell>
         <mxCell id="zd7PMmVDuQ0RVFowQL_5-8" value="三产人数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zd7PMmVDuQ0RVFowQL_5-9" value="常住人口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zd7PMmVDuQ0RVFowQL_5-10" value="户籍人口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="740" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zd7PMmVDuQ0RVFowQL_5-11" value="人口密度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="810" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zd7PMmVDuQ0RVFowQL_5-12" value="人均消费支出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="880" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zd7PMmVDuQ0RVFowQL_5-13" value="人均收入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="950" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
